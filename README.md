@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA)
 - 👀 I’m interested in Programming and Software Development
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me: [abishek2981@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
@@ -13,8 +12,10 @@
 - **Tools:** Git, Figma, intellij, VS Code
 
 ## Projects
-- **Project 1:** Sanke game
-- **Project 2:** Libary management system
+- **Project 1:** Sanke game(cpp)
+- **Project 2:** Libary management system(cpp)
+- **Project 3:** Banking System Management(java)
+- **Project 4:** Student management System(java)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kanaga-abishek-b-2981i)
