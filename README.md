@@ -11,12 +11,6 @@
 - **Languages:** Python, Java, C++
 - **Tools:** Git, Figma, intellij, VS Code
 
-## Projects
-- **Project 1:** Sanke game(cpp)
-- **Project 2:** Libary management system(cpp)
-- **Project 3:** Banking System Management(java)
-- **Project 4:** Student management System(java)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kanaga-abishek-b-2981i)
 
