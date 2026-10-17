@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="t">
+<title id="t">Varys agentic CI failure investigation flow</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090F20"/><stop offset="1" stop-color="#20113A"/></linearGradient><linearGradient id="s"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="1000" height="250" rx="18" fill="url(#bg)"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+ <g stroke="url(#s)" stroke-width="1.5" fill="#111B34">
+  <rect x="35" y="75" width="165" height="78" rx="12"/><rect x="285" y="75" width="165" height="78" rx="12"/>
+  <rect x="535" y="75" width="165" height="78" rx="12"/><rect x="785" y="75" width="180" height="78" rx="12"/>
+ </g>
+ <g fill="#F8FAFC" font-size="16" font-weight="700">
+  <text x="117" y="107">Jenkins failure</text><text x="117" y="130" fill="#A5B4FC" font-size="12" font-weight="400">Build + test data</text>
+  <text x="367" y="107">MCP tools</text><text x="367" y="130" fill="#A5B4FC" font-size="12" font-weight="400">Discover + call</text>
+  <text x="617" y="107">Agent reasoning</text><text x="617" y="130" fill="#A5B4FC" font-size="12" font-weight="400">Multi-turn evidence</text>
+  <text x="875" y="107">Root-cause trail</text><text x="875" y="130" fill="#A5B4FC" font-size="12" font-weight="400">Commit correlation</text>
+ </g>
+ <g stroke="url(#s)" stroke-width="2.5" fill="none"><path d="M200 114 H278"/><path d="M450 114 H528"/><path d="M700 114 H778"/></g>
+ <g fill="#67E8F9"><path d="M271 108 L281 114 L271 120Z"/><path d="M521 108 L531 114 L521 120Z"/><path d="M771 108 L781 114 L771 120Z"/></g>
+ <text x="500" y="39" fill="#C4B5FD" font-size="13" letter-spacing="3">VARYS · EVIDENCE-DRIVEN DEBUGGING</text>
+ <text x="500" y="195" fill="#94A3B8" font-size="13">Not just classification: gather evidence, select tools, correlate, explain.</text>
+</g>
+</svg>

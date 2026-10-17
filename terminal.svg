@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="t">
+<title id="t">A terminal-style introduction to Kanaga Abishek</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1B"/><stop offset="1" stop-color="#17112F"/></linearGradient><linearGradient id="a"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="318" rx="18" fill="url(#b)" stroke="#4338CA" stroke-opacity=".65"/>
+<path d="M1 52 H899" stroke="#312E81"/>
+<circle cx="25" cy="27" r="5" fill="#FB7185"/><circle cx="44" cy="27" r="5" fill="#FBBF24"/><circle cx="63" cy="27" r="5" fill="#4ADE80"/>
+<text x="86" y="32" fill="#94A3B8" font-family="monospace" font-size="13">abishek@engineering-lab:~</text>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">
+ <text x="32" y="88" fill="#67E8F9">$ whoami</text>
+ <text x="32" y="116" fill="#F8FAFC">Kanaga Abishek B.</text>
+ <text x="32" y="151" fill="#67E8F9">$ cat focus.txt</text>
+ <text x="32" y="179" fill="#CBD5E1">backend engineering · distributed systems</text>
+ <text x="32" y="205" fill="#CBD5E1">agentic AI · observability · open source</text>
+ <text x="32" y="240" fill="#67E8F9">$ grep -R "impact" ./work</text>
+ <text x="32" y="268" fill="#C4B5FD">23 hospitals · 30.8% lower p95 latency</text>
+ <text x="32" y="294" fill="#C4B5FD">SIH 2025 National Winner · merged OSS PR</text>
+ <rect x="547" y="278" width="10" height="19" fill="#67E8F9"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
