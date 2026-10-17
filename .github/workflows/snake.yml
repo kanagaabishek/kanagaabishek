@@ -3,78 +3,41 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
-  snake:
+  generate:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: lowlighter/snake@latest
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          github_user_name: kanagaabishek
-          svg_style: ""
-          src: ""
-          label: ""
-          palette: "github"
-          background: "000000"
-          language_color: "false"
-          language_count: "0"
-          language_name: "false"
-          invites: "false"
-          private: "false"
-          contrib_weighted: "false"
-          contrib_weighted_threshold: "0"
-          contrib_weighted_label: ""
-          lang_depth: "2"
-          lang_threshold: "0"
-          lang_increments: "1"
-          langs_count: "10"
-          langs_sort: "frequency"
-          langs_limit: "0"
-          roundsrc: "false"
-          deny_private: "false"
-          hide_border: "false"
-          hide_bottom: "false"
-          hide_top: "false"
-          hide_left: "false"
-          hide_right: "false"
-          hide_head: "false"
-          hide_logo: "false"
-          hide_title: "false"
-          hide_stats: "false"
-          hide_message: "false"
-          hide_footer: "false"
-          hide_git: "false"
-          hide_date: "false"
-          hide_lang: "false"
-          hide_activity: "false"
-          hide_activity_chart: "false"
-          hide_activity_limit: "0"
-          hide_activity_days: "0"
-          hide_activity_threshold: "0"
-          hide_activity_background: "false"
-          hide_activity_border: "false"
-          hide_activity_snake: "false"
-          hide_activity_title: "false"
-          hide_activity_stats: "false"
-          hide_activity_message: "false"
-          hide_activity_footer: "false"
-          hide_activity_git: "false"
-          hide_activity_date: "false"
-          hide_activity_lang: "false"
-          hide_activity_activity: "false"
-          hide_activity_activity_chart: "false"
-          hide_activity_activity_limit: "0"
-          hide_activity_activity_days: "0"
-          hide_activity_activity_threshold: "0"
-          hide_activity_activity_background: "false"
-          hide_activity_activity_border: "false"
-          hide_activity_activity_snake: "false"
-          hide_activity_activity_title: "false"
-          hide_activity_activity_stats: "false"
-          hide_activity_activity_message: "false"
-          hide_activity_activity_footer: "false"
-          hide_activity_activity_git: "false"
-          hide_activity_activity_date: "false"
-          hide_activity_activity_lang: "false"
-          output: "github-contribution-grid-snake.svg"
-          cache_timeout: "86400"
+          github_user_name: navdeep-r
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to `output` branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy snake SVG to assets
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add assets/github-contribution-grid-snake.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution snake [skip ci]" || echo "No changes"
+          git push

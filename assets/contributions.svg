@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="110" viewBox="0 0 175 110" role="img" aria-label="Grid of deepthi's contributions">
+  <rect width="175" height="110" rx="4" fill="#0d1117"/>
+  <g transform="translate(24, 20)">
+    <!-- Simple placeholder for contribution squares -->
+    <rect x="0" y="0" width="10" height="10" fill="#ebedf0"/>
+    <rect x="15" y="0" width="10" height="10" fill="#9be9a8"/>
+    <rect x="30" y="0" width="10" height="10" fill="#40c463"/>
+    <rect x="45" y="0" width="10" height="10" fill="#216e39"/>
+    <!-- Add more rows for a full heatmap -->
+    <rect x="0" y="15" width="10" height="10" fill="#9be9a8"/>
+    <rect x="15" y="15" width="10" height="10" fill="#40c463"/>
+    <rect x="30" y="15" width="10" height="10" fill="#216e39"/>
+    <rect x="45" y="15" width="10" height="10" fill="#ebedf0"/>
+  </g>
+</svg>

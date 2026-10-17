@@ -9,10 +9,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.year.svg
+          filename: assets/metrics.year.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           followup: ""
+          user: navdeep-r
           plugin_isocalendar: "yes"
           plugin_languages: "yes"
           plugin_languages_details: "bytes-size"
@@ -30,8 +31,8 @@ jobs:
           plugin_activities_days: "14"
           plugin_credits: "no"
           plugin_introduction: "no"
-          plugin_introduction_title: "Hello, I'm Kanaga Abishek"
-          plugin_introduction_content: "Software engineer building systems that are observable, reliable, and useful in production."
+          plugin_introduction_title: "Hello, I'm Navdeep R"
+          plugin_introduction_content: "AI Engineer & Full-Stack Developer"
           plugin_repositories: "yes"
           plugin_repositories_limit: "5"
           plugin_repositories_target: "both"
@@ -56,3 +57,5 @@ jobs:
           plugin_git_history: "no"
           plugin_git_history_limit: "5"
           plugin_git_history_duration: "p1y"
+          plugin_languages_limit: "8"
+          plugin_languages_threshold: "0%"
