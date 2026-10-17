@@ -1,0 +1,58 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.year.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          followup: ""
+          plugin_isocalendar: "yes"
+          plugin_languages: "yes"
+          plugin_languages_details: "bytes-size"
+          plugin_lines: "yes"
+          plugin_metrics: "yes"
+          plugin_output: "yes"
+          plugin_stars: "yes"
+          plugin_traffic: "yes"
+          plugin_followup: "no"
+          plugin_achievements: "yes"
+          plugin_achievements_display: "detailed"
+          plugin_activities: "yes"
+          plugin_activities_filter: "all"
+          plugin_activities_limit: "5"
+          plugin_activities_days: "14"
+          plugin_credits: "no"
+          plugin_introduction: "no"
+          plugin_introduction_title: "Hello, I'm Kanaga Abishek"
+          plugin_introduction_content: "Software engineer building systems that are observable, reliable, and useful in production."
+          plugin_repositories: "yes"
+          plugin_repositories_limit: "5"
+          plugin_repositories_target: "both"
+          plugin_topic: "yes"
+          plugin_topic_limit: "5"
+          plugin_topic_languages: "yes"
+          plugin_topic_mapping: "yes"
+          plugin_urls: "yes"
+          plugin_urls_limit: "5"
+          plugin_votes: "yes"
+          plugin_votes_limit: "5"
+          plugin_dependencies: "no"
+          plugin_dependencies_limit: "5"
+          plugin_dependencies_target: "both"
+          plugin_dependencies_details: "none"
+          plugin_dependencies_ignore: "self"
+          plugin_git: "no"
+          plugin_git_commits: "no"
+          plugin_git_issues: "no"
+          plugin_git_pulls: "no"
+          plugin_git_vcs: "no"
+          plugin_git_history: "no"
+          plugin_git_history_limit: "5"
+          plugin_git_history_duration: "p1y"

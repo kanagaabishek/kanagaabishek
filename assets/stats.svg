@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="60" role="img" aria-label="23 hospitals, 30.8% lower p95 latency, 5 releases, 500+ problems solved">
+  <style>
+    .text { fill: #FFFFFF; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">23 hospitals, 30.8% lower p95 latency, 5 releases, 500+ problems solved</text>
+</svg>
