@@ -30,13 +30,13 @@
 <div align="center">
 
 Slide 01 — Smart India Hackathon 2025
-<img src="assets/photos/sih-winner.jpg" width="88%" alt="SIH 2025 winning team photo — upload your real photo here"/>
+<img src="assets/photos/sih-winning.jpg" width="88%" alt="SIH 2025 winning team photo — upload your real photo here"/>
 
 National Winner · Ministry of Defence
 Bond — secure communication for defence use cases.
 Explore Bond ↓
 Slide 02 — aOS Global Buildathon 2025
-<img src="assets/photos/aos-buildathon.jpg" width="88%" alt="aOS Global Buildathon photo — upload your real photo here"/>
+<img src="assets/photos/aos-winning.jpg" width="88%" alt="aOS Global Buildathon photo — upload your real photo here"/>
 
 Runner-up · $1,500 award
 NeoSlot — NFT marketplace.
