@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Kanaga Abishek — engineering systems, software, and agentic AI" />
+<img src="./hero.svg" width="100%" alt="Kanaga Abishek — engineering systems, software, and agentic AI" />
 
 <a href="#about">ABOUT</a> ·
 <a href="#selected-work">SELECTED WORK</a> ·
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal introduction" />
+<img src="./terminal.svg" width="100%" alt="Animated terminal introduction" />
 
 ## About
 
@@ -39,7 +39,7 @@ PROVE      Production impact · Merged open source · SIH 2025 winner
 
 ### 01 / Lumen — Distributed tracing from ingestion to insight
 
-<img src="./assets/lumen-architecture.svg" width="100%" alt="Lumen distributed tracing ingestion architecture" />
+<img src="./lumen-architecture.svg" width="100%" alt="Lumen distributed tracing ingestion architecture" />
 
 **The question:** when a distributed request is slow, how do you identify the critical path instead of staring at a wall of spans?
 
@@ -69,7 +69,7 @@ I built a self-hosted tracing platform that ingests OpenTelemetry spans, stores 
 
 ### 02 / Varys — An agent that investigates CI failures
 
-<img src="./assets/varys-flow.svg" width="100%" alt="Varys agentic CI failure investigation flow" />
+<img src="./varys-flow.svg" width="100%" alt="Varys agentic CI failure investigation flow" />
 
 **The question:** why stop at labelling a failed build when an agent can gather evidence and investigate the likely cause?
 
