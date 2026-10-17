@@ -87,10 +87,28 @@ I'm a Software Engineer and AI Developer from Chennai, currently pursuing B.Tech
   <table>
     <tr>
       <td align="center" width="50%" valign="top">
-        <img src="assets/achievements.svg" alt="Achievements" width="100%" />
+        <h3>🏆 Achievements</h3>
+        <p><strong>Smart India Hackathon 2025</strong> — National Winner (Ministry of Defence) | Awarded | 1,50,000</p>
+        <p><strong>aOS Global Buildathon 2025</strong> — Runner-up | Awarded $1,500 for NeoSlot, an NFT marketplace</p>
+        <p><strong>MariaDB Hackathon 2025</strong> — Finalist | Selected as one of 25 finalists from 2,500+ participants</p>
+        <p><strong>Volunteering:</strong></p>
+        <p>• Dec 2025: Co-organizer — HackSymmetric’26, a 48-hour hackathon at CIT</p>
+        <p>• Aug 2025: Event Coordinator — Runtime Terror, a national-level coding contest at Trojans’25</p>
+        <p>• Sep 2025: [Additional volunteering activity]</p>
       </td>
       <td align="center" width="50%" valign="top">
-        <img src="assets/experience.svg" alt="Professional Experience" width="100%" />
+        <h3>💼 Professional Experience</h3>
+        <p><strong>Zenlocare</strong> — Software Engineering Intern | Java, Spring Boot, React, PostgreSQL, AWS</p>
+        <p><em>Feb 2026 – July 2026 | Chennai, India</em></p>
+        <p>• Led the Pharmacy, Inventory, and Asset modules of ZenoHosp, a platform used across 23 hospitals</p>
+        <p>• Built cookie-based SSO with stateless JWT authentication across ZenoHosp apps</p>
+        <p>• Reduced p95 response latency from 260 ms to 180 ms (30.8% reduction)</p>
+        <p>• Shipped 5 production releases in 6 months</p>
+        <p><strong>Kryptos Technology</strong> — Software Development Intern | Java, Spring Boot, AWS, MCP</p>
+        <p><em>Nov 2025 – Dec 2025 | Chennai, India</em></p>
+        <p>• Optimized production Spring Boot endpoints with request deduplication and caching</p>
+        <p>• Engineered an MCP-powered agentic workflow to automate log analysis</p>
+        <p>• Exposed operational metrics and database execution states as structured tools</p>
       </td>
     </tr>
   </table>
