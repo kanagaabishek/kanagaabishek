@@ -50,39 +50,19 @@
 <!-- ABOUT ME -->
 ## <img src="https://cdn.simpleicons.org/readme/00E8FF" width="24" height="24" alt=""/> About Me
 
-I'm a B.Tech student in **Information Technology** at **Chennai Institute of Technology (CIT)** (Expected Graduation: May 2028 | CGPA: 8.1/10), passionate about engineering high-throughput backend architectures, low-latency distributed systems, and autonomous agentic AI workflows.
+🏆 **Smart India Hackathon 2025 — National Winner, Ministry of Defence** for Bond, a secure defence communication platform.
 
-As a **LeetCode Knight** with over **500+ problems solved** and a peak contest rating of **1905** (top **4.57% worldwide**), competitive programming has honed my computational thinking, algorithmic efficiency, and discipline under pressure. Beyond contest leaderboards, I apply that same engineering rigor to production-grade distributed tracing systems, high-concurrency pipelines, and AI-powered operational tools.
+🎓 B.Tech IT @ Chennai Institute of Technology '28 · **LeetCode Knight** · 1905 peak rating.
 
-I am a **National Winner of Smart India Hackathon 2025** (Ministry of Defence, ₹1,50,000 award) for architecting **Bond**, a defence-grade secure communication platform, and an active open-source contributor with merged pull requests in major observability tools like the **Jenkins OpenTelemetry Plugin**.
+💻 Building with **Java, Spring Boot, Agentic AI, MCP, and Distributed Systems**. Open-source contributor to the Jenkins OpenTelemetry Plugin, with a merged upstream contribution.
 
-Whether building distributed tracing engines with **Java, Spring Boot, gRPC, and Cassandra**, creating multi-turn **Model Context Protocol (MCP)** tool chains, or optimizing production latency across **23 hospitals** at Zenlocare, I believe in **rigorous problem solving, continuous deep learning, and building software that explains itself.**
+**Interests:** Java internals · Autonomous AI agents · Backend architecture · Observability · Open Source
 
 ---
 
 <!-- EXPERIENCE -->
 ## <img src="https://cdn.simpleicons.org/target/00E8FF" width="24" height="24" alt=""/> Experience
 
-### Software Engineering Intern — Zenlocare
-*Feb 2026 – July 2026* | *Chennai, India*
-- **Hospital-Scale Product Engineering**: Led the Pharmacy, Inventory, and Asset modules of **ZenoHosp**, an enterprise healthcare platform deployed across **23 hospitals**, working directly with doctors and clinical administrators to translate real-world hospital workflows into resilient software.
-- **Stateless Cross-Domain Auth**: Engineered cookie-based Single Sign-On (SSO) with stateless **JWT authentication** across all ZenoHosp web applications, resolving critical cross-subdomain session persistence issues.
-- **High-Impact Latency Optimization**: Reduced p95 response latency from **260 ms to 180 ms (30.8% reduction)** across core production workflows through query optimization, connection pooling, and payload streamlining.
-- **Production Delivery**: Shipped **5 major production releases** in 6 months, delivering mission-critical hospital workflows with zero downtime.
-
-*Focus: Java • Spring Boot • React • PostgreSQL • AWS • Docker • Enterprise Healthcare Systems*
-
----
-
-### Software Development Intern — Kryptos Technology
-*Nov 2025 – Dec 2025* | *Chennai, India*
-- **Production Endpoint Optimization**: Optimized production **Spring Boot** endpoints using intelligent request deduplication and multi-layer caching, slashing redundant API calls by **12%**.
-- **MCP-Powered Agentic Automation**: Engineered an autonomous agentic workflow leveraging the **Model Context Protocol (MCP)** to automate root-cause log analysis and trace backend failures across distributed services.
-- **Autonomous Debugging Tools**: Exposed operational metrics and database execution states as structured MCP tools, empowering the LLM agent to navigate and resolve multi-step distributed debugging tasks autonomously.
-
-*Focus: Java • Spring Boot • AWS • Model Context Protocol (MCP) • Distributed Systems • Python*
-
----
 
 <!-- FEATURED PROJECTS -->
 ## <img src="https://cdn.simpleicons.org/gnubash/00E8FF" width="24" height="24" alt=""/> Featured Projects
@@ -137,12 +117,6 @@ Upstream contribution to the official Jenkins observability ecosystem fixing the
 - Updated affected Java descriptors and Jelly views, removing legacy icon registrations; contribution was reviewed and merged upstream.
 
 *Focus: Open Source • Java • Jenkins • Observability • Theme-Aware Symbols*
-
----
-
-### More Projects & Hackathon Builds
-- [NeoSlot](https://github.com/kanagaabishek) — Web3 NFT marketplace platform (**Runner-up @ aOS Global Buildathon 2025, $1,500 Prize**)
-- [MariaDB Distributed Engine](https://github.com/kanagaabishek) — High-availability database cluster implementation (**Finalist @ MariaDB Hackathon 2025**)
 
 ---
 
@@ -233,24 +207,6 @@ Upstream contribution to the official Jenkins observability ecosystem fixing the
 
 <br/>
 
-<!-- GITHUB ACTIVITY & STREAK STATS -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/kanagaabishek">
-          <img src="https://github-readme-stats.vercel.app/api?username=kanagaabishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Profile Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/kanagaabishek">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanagaabishek&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <!-- HONORS & ACHIEVEMENTS -->
@@ -276,8 +232,5 @@ Upstream contribution to the official Jenkins observability ecosystem fixing the
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanaga_Abishek_B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanaga-abishek)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abishek2981-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abishek2981/)
-[![GitHub](https://img.shields.io/badge/GitHub-kanagaabishek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanagaabishek)
-[![Email](https://img.shields.io/badge/Email-abishek2981@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishek2981@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(+91)_73974_13652-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917397413652)
 
 </div>
