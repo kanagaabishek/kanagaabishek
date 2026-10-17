@@ -61,11 +61,11 @@
 ---
 
 <!-- EXPERIENCE -->
-## <img src="https://cdn.simpleicons.org/target/00E8FF" width="24" height="24" alt=""/> Experience
+## <img src="https://cdn.simpleicons.org/target/00E8FF" width="24" height="24" alt=""/> Open Source Contribution
 
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://cdn.simpleicons.org/gnubash/00E8FF" width="24" height="24" alt=""/> Featured Projects
+<!-- ## <img src="https://cdn.simpleicons.org/gnubash/00E8FF" width="24" height="24" alt=""/> Featured Projects
 
 ### Lumen — Distributed Tracing System
 A self-hosted, high-throughput distributed tracing alternative to Jaeger and Zipkin designed for high-concurrency span ingestion, bottleneck detection, and granular execution path breakdown.
@@ -110,7 +110,7 @@ An invite-only, end-to-end encrypted military communication platform built for s
 </p>
 
 ---
-
+-->
 ### Jenkins OpenTelemetry Plugin — Open Source Contribution
 Upstream contribution to the official Jenkins observability ecosystem fixing theme inconsistency across modern UI themes ([Issue #1150](https://github.com/jenkinsci/opentelemetry-plugin)).
 - Fixed icon rendering issues across dark and light Jenkins themes by adding Jenkins' OSS Symbols dependency and migrating the core OpenTelemetry icon plus six observability backend icons to theme-aware symbols.
@@ -166,7 +166,9 @@ Upstream contribution to the official Jenkins observability ecosystem fixing the
 
 ---
 
+
 <!-- EDUCATION & CERTIFICATIONS -->
+<!--
 ## <img src="https://cdn.simpleicons.org/googleclassroom/00E8FF" width="24" height="24" alt=""/> Education &amp; Certifications
 
 - 🎓 **B.Tech, Information Technology** — *Chennai Institute of Technology (CIT)* (Expected: May 2028 | **CGPA: 8.1/10**)
@@ -199,6 +201,7 @@ Upstream contribution to the official Jenkins observability ecosystem fixing the
 <br/>
 
 <!-- LIVE LEETCODE CONTEST CARD -->
+<!--
 <div align="center">
   <a href="https://leetcode.com/u/abishek2981/">
     <img src="https://leetcard.jacoblin.cool/abishek2981?theme=nord&font=Fira%20Code&ext=contest" alt="LeetCode Contest Card" width="100%" />
