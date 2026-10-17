@@ -255,6 +255,8 @@ flowchart LR
 
 ## Stack
 
+</div>
+
 <table>
 <tr><td align="right"><b>LANGUAGES</b></td><td>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -291,6 +293,8 @@ flowchart LR
 
 ## Recognition
 
+</div>
+
 <table>
 <tr><th align="left">Achievement</th><th align="left">Result</th></tr>
 <tr><td>Smart India Hackathon 2025</td><td>National Winner · Ministry of Defence</td></tr>
@@ -306,6 +310,8 @@ flowchart LR
 <div align="center">
 
 ## Activity
+
+</div>
 
 <sub>Generated from real GitHub data and refreshed daily by GitHub Actions.</sub>
 
