@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="440" viewBox="0 0 500 440" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="440" rx="12" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="499" height="439" rx="12" fill="none" stroke="#30363d"/>
+  <line x1="0" y1="36" x2="500" y2="36" stroke="#30363d"/>
+  <circle cx="24" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="18" r="5" fill="#27c93f"/>
+  <text x="250" y="23" fill="#7d8590" font-size="14" text-anchor="middle">abishek@github: ~/competitions</text>
+
+  <clipPath id="ct0">
+    <rect x="24" y="46" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.000s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct0)">
+    <text xml:space="preserve" x="24" y="64" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#d2a8ff" font-weight="bold">Smart India Hackathon 2025</tspan></text>
+  </g>
+  <rect y="47" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.000s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.000s"/>
+    <set attributeName="opacity" to="0" begin="0.140s"/>
+  </rect>  <clipPath id="ct1">
+    <rect x="24" y="69" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.140s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct1)">
+    <text xml:space="preserve" x="38" y="87" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#7ee787" font-weight="bold">National Winner</tspan><tspan fill="#8b949e"> · Ministry of Defence</tspan></text>
+  </g>
+  <rect y="70" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.140s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.140s"/>
+    <set attributeName="opacity" to="0" begin="0.280s"/>
+  </rect>  <clipPath id="ct2">
+    <rect x="24" y="89" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.280s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct2)">
+    <text xml:space="preserve" x="38" y="107" font-size="14" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#e3b341" font-weight="bold">₹1,50,000 Cash Prize</tspan><tspan fill="#c9d1d9"> · Bond Secure Comm Platform</tspan></text>
+  </g>
+  <rect y="90" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.280s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.280s"/>
+    <set attributeName="opacity" to="0" begin="0.420s"/>
+  </rect>  <clipPath id="ct3">
+    <rect x="24" y="127" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.560s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct3)">
+    <text xml:space="preserve" x="24" y="145" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#3fb950" font-weight="bold">aOS Global Buildathon 2025</tspan></text>
+  </g>
+  <rect y="128" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.560s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.560s"/>
+    <set attributeName="opacity" to="0" begin="0.700s"/>
+  </rect>  <clipPath id="ct4">
+    <rect x="24" y="150" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.700s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct4)">
+    <text xml:space="preserve" x="38" y="168" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#7ee787" font-weight="bold">Runner-Up Winner</tspan><tspan fill="#8b949e"> · Global Web3 Competition</tspan></text>
+  </g>
+  <rect y="151" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.700s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.700s"/>
+    <set attributeName="opacity" to="0" begin="0.840s"/>
+  </rect>  <clipPath id="ct5">
+    <rect x="24" y="170" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.840s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct5)">
+    <text xml:space="preserve" x="38" y="188" font-size="14" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#e3b341" font-weight="bold">$1,500 Award</tspan><tspan fill="#c9d1d9"> for NeoSlot NFT Marketplace</tspan></text>
+  </g>
+  <rect y="171" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.840s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.840s"/>
+    <set attributeName="opacity" to="0" begin="0.980s"/>
+  </rect>  <clipPath id="ct6">
+    <rect x="24" y="208" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.120s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct6)">
+    <text xml:space="preserve" x="24" y="226" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#79c0ff" font-weight="bold">MariaDB Hackathon 2025</tspan></text>
+  </g>
+  <rect y="209" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.120s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.120s"/>
+    <set attributeName="opacity" to="0" begin="1.260s"/>
+  </rect>  <clipPath id="ct7">
+    <rect x="24" y="231" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.260s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct7)">
+    <text xml:space="preserve" x="38" y="249" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#58a6ff" font-weight="bold">National Finalist</tspan><tspan fill="#8b949e"> · Database Engineering</tspan></text>
+  </g>
+  <rect y="232" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.260s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.260s"/>
+    <set attributeName="opacity" to="0" begin="1.400s"/>
+  </rect>  <clipPath id="ct8">
+    <rect x="24" y="251" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.400s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct8)">
+    <text xml:space="preserve" x="38" y="269" font-size="14" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#c9d1d9">Top 25 Finalist selected from 2,500+ competitors</tspan></text>
+  </g>
+  <rect y="252" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.400s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.400s"/>
+    <set attributeName="opacity" to="0" begin="1.540s"/>
+  </rect>  <clipPath id="ct9">
+    <rect x="24" y="289" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.680s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct9)">
+    <text xml:space="preserve" x="24" y="307" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#ffa657" font-weight="bold">HackSymmetric '26 &amp; Trojans</tspan></text>
+  </g>
+  <rect y="290" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.680s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.680s"/>
+    <set attributeName="opacity" to="0" begin="1.820s"/>
+  </rect>  <clipPath id="ct10">
+    <rect x="24" y="312" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.820s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct10)">
+    <text xml:space="preserve" x="38" y="330" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#e3b341" font-weight="bold">Co-Organizer</tspan><tspan fill="#8b949e"> · 48-hr Hackathon w/ Unstop &amp; MLH</tspan></text>
+  </g>
+  <rect y="313" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.820s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.820s"/>
+    <set attributeName="opacity" to="0" begin="1.960s"/>
+  </rect>  <clipPath id="ct11">
+    <rect x="24" y="332" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.960s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct11)">
+    <text xml:space="preserve" x="38" y="350" font-size="14" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#c9d1d9">Event Coordinator · Runtime Terror @ Trojans'25</tspan></text>
+  </g>
+  <rect y="333" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.960s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.960s"/>
+    <set attributeName="opacity" to="0" begin="2.100s"/>
+  </rect>  <clipPath id="ct12">
+    <rect x="24" y="370" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="2.240s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct12)">
+    <text xml:space="preserve" x="24" y="388" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#f97583" font-weight="bold">Certifications &amp; Academics</tspan></text>
+  </g>
+  <rect y="371" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="2.240s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="2.240s"/>
+    <set attributeName="opacity" to="0" begin="2.380s"/>
+  </rect>  <clipPath id="ct13">
+    <rect x="24" y="393" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="2.380s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct13)">
+    <text xml:space="preserve" x="38" y="411" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#7ee787">Amazon DSA &amp; Java</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#c9d1d9">NPTEL Python Analytics</tspan></text>
+  </g>
+  <rect y="394" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="2.380s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="2.380s"/>
+    <set attributeName="opacity" to="0" begin="2.520s"/>
+  </rect>
+
+  <rect x="24" y="416" width="10" height="18" fill="#00E5FF">
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <set attributeName="opacity" to="1" begin="2.520s"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" begin="2.520s"/>
+  </rect>
+</svg>

@@ -1,128 +1,283 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanaga%20Abishek%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%26%20AI%20Developer&descAlignY=62&descSize=16&v=2" width="100%"/>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="KANAGA ABISHEK B - Distributed Systems &amp; Agentic AI Developer" width="100%" />
+</p>
 
-<div align="center">
+<!-- TYPEWRITER -->
+<p align="center">
+  <img src="./assets/typewriter.svg" alt="Typewriter Identity" width="100%" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%26+AI+Developer+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React;LeetCode+KNIGHT+%E2%9A%94%EF%B8%8F+Rating+1905;Smart+India+Hackathon+2025+%E2%80%94+National+Winner+%7C+Ministry+of+Defence&v=2)](https://git.io/typing-svg)
+<br/>
 
-</div>
-
----
-
+<!-- TERMINAL DASHBOARD -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="45%">
-        <img src="assets/portrait.svg" alt="Kanaga Abishek B ASCII portrait" width="100%" />
+      <td align="center" width="45%" valign="top">
+        <img src="./assets/portrait.svg" alt="Kanaga Abishek B Terminal Portrait" width="100%" />
       </td>
-      <td align="center" width="55%">
-        <img src="assets/info.svg" alt="Kanaga Abishek B Info" width="100%" />
+      <td align="center" width="55%" valign="top">
+        <img src="./assets/info.svg" alt="Kanaga Abishek B Info Terminal" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
+<!-- CONTRIBUTION ACTIVITY -->
 <div align="center">
-
-<img src="assets/contributions.svg" alt="GitHub Contribution Heatmap" width="100%" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kanagaabishek/kanagaabishek/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kanagaabishek/kanagaabishek/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contributions activity"
+      src="./assets/contributions.svg"
+      width="100%"
+    />
+  </picture>
 </div>
 
+<br/>
+
+<!-- ABOUT ME -->
+## <img src="https://cdn.simpleicons.org/readme/00E8FF" width="24" height="24" alt=""/> About Me
+
+I'm a B.Tech student in **Information Technology** at **Chennai Institute of Technology (CIT)** (Expected Graduation: May 2028 | CGPA: 8.1/10), passionate about engineering high-throughput backend architectures, low-latency distributed systems, and autonomous agentic AI workflows.
+
+As a **LeetCode Knight** with over **500+ problems solved** and a peak contest rating of **1905** (top **4.57% worldwide**), competitive programming has honed my computational thinking, algorithmic efficiency, and discipline under pressure. Beyond contest leaderboards, I apply that same engineering rigor to production-grade distributed tracing systems, high-concurrency pipelines, and AI-powered operational tools.
+
+I am a **National Winner of Smart India Hackathon 2025** (Ministry of Defence, ₹1,50,000 award) for architecting **Bond**, a defence-grade secure communication platform, and an active open-source contributor with merged pull requests in major observability tools like the **Jenkins OpenTelemetry Plugin**.
+
+Whether building distributed tracing engines with **Java, Spring Boot, gRPC, and Cassandra**, creating multi-turn **Model Context Protocol (MCP)** tool chains, or optimizing production latency across **23 hospitals** at Zenlocare, I believe in **rigorous problem solving, continuous deep learning, and building software that explains itself.**
+
 ---
 
-## 👨‍💻 About Me
+<!-- EXPERIENCE -->
+## <img src="https://cdn.simpleicons.org/target/00E8FF" width="24" height="24" alt=""/> Experience
 
-I'm a Software Engineer and AI Developer from Chennai, currently pursuing B.Tech in Information Technology at Chennai Institute of Technology (CGPA: 8.1/10). I have experience as **Software Engineering Intern at Zenlocare** and **Software Development Intern at Kryptos Technology**, building enterprise healthcare platforms and agentic AI systems. My work lives at the intersection of **distributed systems**, **agentic AI**, and **cloud-native development**.
+### Software Engineering Intern — Zenlocare
+*Feb 2026 – July 2026* | *Chennai, India*
+- **Hospital-Scale Product Engineering**: Led the Pharmacy, Inventory, and Asset modules of **ZenoHosp**, an enterprise healthcare platform deployed across **23 hospitals**, working directly with doctors and clinical administrators to translate real-world hospital workflows into resilient software.
+- **Stateless Cross-Domain Auth**: Engineered cookie-based Single Sign-On (SSO) with stateless **JWT authentication** across all ZenoHosp web applications, resolving critical cross-subdomain session persistence issues.
+- **High-Impact Latency Optimization**: Reduced p95 response latency from **260 ms to 180 ms (30.8% reduction)** across core production workflows through query optimization, connection pooling, and payload streamlining.
+- **Production Delivery**: Shipped **5 major production releases** in 6 months, delivering mission-critical hospital workflows with zero downtime.
+
+*Focus: Java • Spring Boot • React • PostgreSQL • AWS • Docker • Enterprise Healthcare Systems*
 
 ---
 
-## 🛠️ Tech Stack
+### Software Development Intern — Kryptos Technology
+*Nov 2025 – Dec 2025* | *Chennai, India*
+- **Production Endpoint Optimization**: Optimized production **Spring Boot** endpoints using intelligent request deduplication and multi-layer caching, slashing redundant API calls by **12%**.
+- **MCP-Powered Agentic Automation**: Engineered an autonomous agentic workflow leveraging the **Model Context Protocol (MCP)** to automate root-cause log analysis and trace backend failures across distributed services.
+- **Autonomous Debugging Tools**: Exposed operational metrics and database execution states as structured MCP tools, empowering the LLM agent to navigate and resolve multi-step distributed debugging tasks autonomously.
 
-**Languages**
+*Focus: Java • Spring Boot • AWS • Model Context Protocol (MCP) • Distributed Systems • Python*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+---
+
+<!-- FEATURED PROJECTS -->
+## <img src="https://cdn.simpleicons.org/gnubash/00E8FF" width="24" height="24" alt=""/> Featured Projects
+
+### Lumen — Distributed Tracing System
+A self-hosted, high-throughput distributed tracing alternative to Jaeger and Zipkin designed for high-concurrency span ingestion, bottleneck detection, and granular execution path breakdown.
+- Ingests OpenTelemetry spans over both **gRPC** and **HTTP**, storing them in **Apache Cassandra** via a denormalized schema specifically engineered to eliminate hot partitions under heavy write loads.
+- Added latency analysis that pinpoints the critical path, bottlenecks, and idle gaps in slow traces, using interval merging to compute self-time without double-counting parallel child calls.
+- Decoupled ingestion from storage with a bounded queue and multi-threaded background workers that batch-flush **500 spans every 100 ms**, protecting upstream services from storage backpressure.
+
+*Focus: Distributed Systems • Java • Spring Boot • gRPC • Apache Cassandra • OpenTelemetry*  
+<p align="left">
+  <a href="https://github.com/kanagaabishek">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="Lumen Repository"/>
+  </a>
+</p>
+
+---
+
+### Varys — Autonomous Agentic CI Failure Investigator
+An intelligent autonomous agent that investigates complex Jenkins CI/CD build failures through dynamic multi-turn reasoning and tool use rather than brittle one-shot prompt classification.
+- Designed and deployed an MCP server exposing CI test logs, build artifacts, and commit histories as **4 structured tools** discoverable and chained dynamically over `stdio`.
+- Traces failures to their root cause by correlating build history, test regressions, and commit diffs, typically resolving issues within **5 reasoning turns**.
+
+*Focus: Agentic AI • Model Context Protocol (MCP) • Python • Jenkins CI • Automated Debugging*  
+<p align="left">
+  <a href="https://github.com/kanagaabishek">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="Varys Repository"/>
+  </a>
+</p>
+
+---
+
+### Bond — Secure Defence Communication Platform
+An invite-only, end-to-end encrypted military communication platform built for secure hierarchical coordination between command centers, operational officers, and military personnel.
+- **Smart India Hackathon 2025 National Winner**: Evaluated, security-tested, and awarded **₹1,50,000** by officials from the **Ministry of Defence** and **Army Cyber Group of India**.
+- Implemented strict role-based access control (`Admin → Officer → Family`) with HQ-only cryptographic account provisioning and administrative monitoring features.
+- Integrated **LiveKit** alongside a self-hosted **Matrix (Synapse)** homeserver to deliver low-latency encrypted audio/video calling on top of federated messaging.
+
+*Focus: Def-Tech • Secure Communications • Node.js • React • Matrix (Synapse) • LiveKit • Azure • RBAC*  
+<p align="left">
+  <a href="https://github.com/kanagaabishek">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="Bond Repository"/>
+  </a>
+</p>
+
+---
+
+### Jenkins OpenTelemetry Plugin — Open Source Contribution
+Upstream contribution to the official Jenkins observability ecosystem fixing theme inconsistency across modern UI themes ([Issue #1150](https://github.com/jenkinsci/opentelemetry-plugin)).
+- Fixed icon rendering issues across dark and light Jenkins themes by adding Jenkins' OSS Symbols dependency and migrating the core OpenTelemetry icon plus six observability backend icons to theme-aware symbols.
+- Updated affected Java descriptors and Jelly views, removing legacy icon registrations; contribution was reviewed and merged upstream.
+
+*Focus: Open Source • Java • Jenkins • Observability • Theme-Aware Symbols*
+
+---
+
+### More Projects & Hackathon Builds
+- [NeoSlot](https://github.com/kanagaabishek) — Web3 NFT marketplace platform (**Runner-up @ aOS Global Buildathon 2025, $1,500 Prize**)
+- [MariaDB Distributed Engine](https://github.com/kanagaabishek) — High-availability database cluster implementation (**Finalist @ MariaDB Hackathon 2025**)
+
+---
+
+<!-- TECH STACK -->
+## <img src="https://cdn.simpleicons.org/codersrank/00E8FF" width="24" height="24" alt=""/> Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+**Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat-square&logo=agents&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**AI / ML & Voice Tech**
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF6F00?style=flat-square&logo=opentelemetry&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-00A0DC?style=flat-square&logo=webrtc&logoColor=white)
-![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Cloud & Databases**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Databases, Storage & Streaming**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools & Protocols**
+**Systems, Observability & Agentic AI**  
+![Distributed Systems](https://img.shields.io/badge/Systems-Distributed_Systems-6366F1?style=flat-square&logo=databricks&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/Observability-OpenTelemetry-7F52FF?style=flat-square&logo=opentelemetry&logoColor=white)
+![gRPC](https://img.shields.io/badge/Protocols-gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![MCP](https://img.shields.io/badge/Agentic_AI-Model_Context_Protocol-00C9FF?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/AI-Retrieval_Augmented_Gen-FF6F00?style=flat-square&logoColor=white)
 
+**Cloud, DevOps & Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+<!-- EDUCATION & CERTIFICATIONS -->
+## <img src="https://cdn.simpleicons.org/googleclassroom/00E8FF" width="24" height="24" alt=""/> Education &amp; Certifications
+
+- 🎓 **B.Tech, Information Technology** — *Chennai Institute of Technology (CIT)* (Expected: May 2028 | **CGPA: 8.1/10**)
+- 📜 **Amazon: Data Structures and Algorithms** — *Algorithmic problem solving, asymptotic complexity, advanced data structures*
+- 📜 **Amazon: Programming with Java** — *OOP principles, multithreading, concurrency models, Java collections framework*
+- 📜 **NPTEL, IIT: Data Analytics with Python** — *Statistical modeling, exploratory data analysis, numerical computing*
+
+---
+
+<!-- COMPETITIVE PROGRAMMING & CONTEST STATS -->
+## <img src="https://cdn.simpleicons.org/github/00E8FF" width="24" height="24" alt=""/> Competitive &amp; Contest Stats
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%" valign="top">
-        <h3>🏆 Achievements</h3>
-        <p><strong>Smart India Hackathon 2025</strong> — National Winner (Ministry of Defence) | Awarded | 1,50,000</p>
-        <p><strong>aOS Global Buildathon 2025</strong> — Runner-up | Awarded $1,500 for NeoSlot, an NFT marketplace</p>
-        <p><strong>MariaDB Hackathon 2025</strong> — Finalist | Selected as one of 25 finalists from 2,500+ participants</p>
-        <p><strong>Volunteering:</strong></p>
-        <p>• Dec 2025: Co-organizer — HackSymmetric’26, a 48-hour hackathon at CIT</p>
-        <p>• Aug 2025: Event Coordinator — Runtime Terror, a national-level coding contest at Trojans’25</p>
-        <p>• Sep 2025: [Additional volunteering activity]</p>
+        <a href="https://leetcode.com/u/abishek2981/">
+          <img src="./assets/competitive.svg" alt="Competitive Programming Metrics" width="100%" />
+        </a>
       </td>
       <td align="center" width="50%" valign="top">
-        <h3>💼 Professional Experience</h3>
-        <p><strong>Zenlocare</strong> — Software Engineering Intern | Java, Spring Boot, React, PostgreSQL, AWS</p>
-        <p><em>Feb 2026 – July 2026 | Chennai, India</em></p>
-        <p>• Led the Pharmacy, Inventory, and Asset modules of ZenoHosp, a platform used across 23 hospitals</p>
-        <p>• Built cookie-based SSO with stateless JWT authentication across ZenoHosp apps</p>
-        <p>• Reduced p95 response latency from 260 ms to 180 ms (30.8% reduction)</p>
-        <p>• Shipped 5 production releases in 6 months</p>
-        <p><strong>Kryptos Technology</strong> — Software Development Intern | Java, Spring Boot, AWS, MCP</p>
-        <p><em>Nov 2025 – Dec 2025 | Chennai, India</em></p>
-        <p>• Optimized production Spring Boot endpoints with request deduplication and caching</p>
-        <p>• Engineered an MCP-powered agentic workflow to automate log analysis</p>
-        <p>• Exposed operational metrics and database execution states as structured tools</p>
+        <a href="https://github.com/kanagaabishek">
+          <img src="./assets/competitions.svg" alt="Hackathons and Competitions" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
 
+<!-- LIVE LEETCODE CONTEST CARD -->
+<div align="center">
+  <a href="https://leetcode.com/u/abishek2981/">
+    <img src="https://leetcard.jacoblin.cool/abishek2981?theme=nord&font=Fira%20Code&ext=contest" alt="LeetCode Contest Card" width="100%" />
+  </a>
+</div>
 
-## 🤝 Connect With Me
+<br/>
+
+<!-- GITHUB ACTIVITY & STREAK STATS -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <a href="https://github.com/kanagaabishek">
+          <img src="https://github-readme-stats.vercel.app/api?username=kanagaabishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Profile Stats" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://github.com/kanagaabishek">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanagaabishek&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- HONORS & ACHIEVEMENTS -->
+## <img src="https://cdn.simpleicons.org/sublimehacker/00E8FF" width="24" height="24" alt=""/> Honors, Hackathons &amp; Leadership
+
+- 🏆 **Smart India Hackathon 2025 — National Winner (Ministry of Defence)**  
+  *Dec 2025* | Awarded **₹1,50,000** for building **Bond**, a defence-grade secure communication platform with hierarchical RBAC, LiveKit real-time calling, and Matrix-encrypted messaging.
+- 🥈 **aOS Global Buildathon 2025 — Runner-up**  
+  *Aug 2025* | Awarded **$1,500** for building **NeoSlot**, a decentralized Web3 NFT marketplace platform.
+- 🎯 **MariaDB Hackathon 2025 — Finalist**  
+  *Sep 2025* | Selected as one of **25 finalists out of 2,500+ participants** worldwide for distributed database architecture.
+- 🤝 **Co-organizer — HackSymmetric ’26**  
+  A 48-hour national hackathon at Chennai Institute of Technology conducted in collaboration with **Unstop** and **Major League Hacking (MLH)**.
+- ⚡ **Event Coordinator — Runtime Terror**  
+  A national-level competitive programming and coding contest organized as part of **Trojans ’25**, coordinating technical problem curation and platform operations.
+
+---
+
+<!-- CONNECT WITH ME -->
+## <img src="https://cdn.simpleicons.org/googlechrome/00E8FF" width="24" height="24" alt=""/> Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kanagaabishek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kanagaabishek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanaga-abishek-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanaga-abishek)
-[![Email](https://img.shields.io/badge/Email-abishek2981@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abishek2981@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-abishek2981-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/abishek2981)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanaga_Abishek_B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanaga-abishek)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abishek2981-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abishek2981/)
+[![GitHub](https://img.shields.io/badge/GitHub-kanagaabishek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanagaabishek)
+[![Email](https://img.shields.io/badge/Email-abishek2981@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishek2981@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-(+91)_73974_13652-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917397413652)
 
 </div>
