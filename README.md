@@ -10,22 +10,6 @@
 
 <br/>
 
-<!-- TERMINAL DASHBOARD -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="45%" valign="top">
-        <img src="./assets/portrait.svg" alt="Kanaga Abishek B Terminal Portrait" width="100%" />
-      </td>
-      <td align="center" width="55%" valign="top">
-        <img src="./assets/info.svg" alt="Kanaga Abishek B Info Terminal" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- CONTRIBUTION ACTIVITY -->
 <div align="center">
   <picture>
